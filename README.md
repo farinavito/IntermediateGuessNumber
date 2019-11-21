@@ -4,8 +4,8 @@ A slightly more advanced game - Guess the number
 OVERVIEW:
 
 The player must guess a number between 1 and 100, which is created randomly by computer. Player will get some help from the programme, 
-saying to him/her to guess lower or higher. When he types in the correct number (the number created randomly by computer), the programme  
-will congratulated him/her. It will also writte out how many attempts he/she needed to guess the correct number. Player's attempts will 
+saying to him/her to guess lower or higher. When he types in the correct number (the number created randomly by computer), the programme will congratulated him/her. 
+It will also writte out how many attempts he/she needed to guess the correct number. Player's attempts will 
 be stored in a score.txt file. This programme will print out only top 3 scores. 
 
 WARNING:
